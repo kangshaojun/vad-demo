@@ -1,6 +1,6 @@
-# 语音转文字应用 (STT Demo)
+# 语音检测并转文字应用 (Vad Demo)
 
-这是一个使用React和Python FastAPI构建的语音转文字应用，利用OpenAI的Whisper模型进行语音识别。
+这是一个使用React和Python FastAPI构建的语音检测并转文字应用，利用OpenAI的Whisper模型进行语音识别。
 
 ## 项目结构
 
